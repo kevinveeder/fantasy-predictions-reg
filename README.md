@@ -1,5 +1,5 @@
 # NFL Fantasy Football Player Projections (2025)
-This project uses real 2024 player statistics to train a simple linear regression model that predicts fantasy football performance for the upcoming 2025 season. It scrapes data from Pro Football Reference, FantasyPros projections, and ADP (Average Draft Position) rankings to generate full-season fantasy point predictions and highlight potential sleepers or overvalued players.
+This project uses real 2024 player statistics to train a simple linear regression model that predicts fantasy football performance for the upcoming 2025 season. It scrapes data from Pro Football Reference, FantasyPros projections, and ADP (Average Draft Position) rankings to generate full-season fantasy point predictions and highlight potential sleepers or overvalued players. This is done through custom web scraping functions that I had fun playing around with, hence why there is only one file in the repo. 
 
 ## Overview
 - 2024 Player Data scraped and used to train a fantasy points per game (FPPG) prediction model
